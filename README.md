@@ -19,3 +19,9 @@ If you don't have conda (or miniconda), you can download it [here](https://docs.
 and you then enter the enviornment with
 
 `conda activate ml_intro_vhio`
+
+## If it does not work, you should just be careful with some dependencies:
+
+- python=3.11 (conda create -n ml_intro_vhio python=3.11)
+- tensorflow=2.12.0
+- ipywidget=8.1.5

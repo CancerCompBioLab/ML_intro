@@ -1,0 +1,11 @@
+name: tuto_ml
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - tensorflow=2.12.0
+  - jupyter
+  - matplotlib
+  - numpy
+  - conda-forge::tensorflow-datasets
+prefix: /opt/homebrew/Caskroom/miniconda/base/envs/tuto_ml
