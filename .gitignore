@@ -1,0 +1,6 @@
+*.kra~
+*.kra
+*.key
+*checkpoint*
+.DS_Store
+
